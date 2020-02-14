@@ -16,12 +16,15 @@ c. start seeder to insert datas of users and rooms :
 a. sign in :
 
 role user :
+
 	1. email : mei@gmail.com
 	pwd : mei
 	role: admin
+	
 	2. email : ana@gmail.com
 	pwd : ana
 	role: resepsionis
+	
 	3. email : nuri@gmail.com
 	pwd : nuri
 	role : resepsionis
