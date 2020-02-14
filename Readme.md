@@ -3,7 +3,7 @@
 Server :
 
 a. for running  :
--> nodemon server.js
+-> nodemon server.js (OR) npm start
 
 b. start to migrate database :
 -> npx sequelize-cli db:migrate
