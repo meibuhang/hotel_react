@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Playfair+Display|Roboto|Satisfy&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Satisfy', cursive;
+    font-family: 'MyWebFont', Fallback, sans-serif;
+}
+
+.header {
+    margin-top: 40;
+    width: 100%;
+    height: 100%;
+    background-image: url('../public/images/hotels.jpg');
+    opacity: 0.9;
+    display: block;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    top: 0px;
+}
+
+.section {
+    margin: 0 auto;
+}
+
+.textHeader {
+    padding-top: 150px;
+    padding-bottom: 120px;
+}
+
+.dividers {
+    width: 5%;
+    padding-Top: 2px;
+    background-color: #bcaaaa;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
